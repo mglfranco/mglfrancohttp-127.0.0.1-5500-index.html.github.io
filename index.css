@@ -1,0 +1,51 @@
+body  {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(black,white);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    justify-content: space-between;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    
+    
+}
+
+a {
+    color: rgb(242, 244, 246);
+    text-decoration: none;
+    background-image: radial-gradient(black,gold,green);
+    background-image: linear-gradient(white,red,green,purple);
+}
+
+.center {
+    text-align: right;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    border-radius: 90%;
+    border: 10px solid rgb(12);
+
+}
+
+.p1 {
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    background-image: linear-gradient(red,green, purple,black);
+}
+
+.h2 {
+    background-image: linear-gradient(rgb(206, 23, 23), black,purple);
+    text-align: center;
+    
+}
+
+.h1 {
+    background-image: linear-gradient(white, black,purple, yellow);
+    text-align: center;
+}
